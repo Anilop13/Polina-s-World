@@ -62,6 +62,7 @@ button:focus {
     border: 2px solid #f05a22;
 }
 .section-title {
+    margin-bottom: 90px;
     font-size: 30px;
     font-weight: 700;
     line-height: 27px;
@@ -83,4 +84,12 @@ button:focus {
     width: 25%;
     float: left;
 }
-
+.features-block__img {
+    min-height: 55px;
+    margin-bottom: 23px;
+}
+.features-block__text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+}
