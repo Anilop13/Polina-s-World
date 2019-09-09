@@ -103,4 +103,5 @@ button:focus {
 }
 .features-blocks {
     float: left;
+    margin: 10px;
 }
