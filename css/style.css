@@ -67,10 +67,20 @@ button:focus {
     line-height: 27px;
     text-align: center;
 }
+.features {
+    padding-top: 90px;
+    padding-bottom: 99px;
+    background-color: #f2f2f2;
+}
+.features-wrap::after {
+    content: '';
+    display: table;
+    clear: both;
+}
 .features-block {
     display: inline-block;
     text-align: center;
-    width: 25x;
+    width: 25%;
     float: left;
 }
 
