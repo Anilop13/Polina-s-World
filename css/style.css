@@ -69,4 +69,8 @@ button:focus {
 }
 .features-block {
     display: inline-block;
+    text-align: center;
+    width: 25x;
+    float: left;
 }
+
