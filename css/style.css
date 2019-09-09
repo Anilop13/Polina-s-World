@@ -93,3 +93,14 @@ button:focus {
     font-weight: 400;
     line-height: 22px;
 }
+.section-title2 {
+    margin-bottom: 69px;
+    text-align: center;
+    margin-top: 89px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 27px;
+}
+.features-blocks {
+    float: left;
+}
